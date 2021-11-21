@@ -1,7 +1,6 @@
 import { Avatar } from "@chakra-ui/avatar";
 import { useColorModeValue } from "@chakra-ui/color-mode";
 import { Progress } from "@chakra-ui/react";
-import { Image } from "@chakra-ui/image";
 import {
   Badge,
   Box,
